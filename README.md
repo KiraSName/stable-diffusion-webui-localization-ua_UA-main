@@ -2,7 +2,7 @@
    Українська локалізація для AUTOMATIC1111 stable diffusion webui
 
 # Опис
-[Розширення](https://github.com/KiraSName/stable-diffusion-webui-localization-ua_UA-main)для перекладу на Українську мову [stable diffusion webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+[Розширення ](https://github.com/KiraSName/stable-diffusion-webui-localization-ua_UA-main)для перекладу на Українську мову [stable diffusion webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
 ## Перекладені розширення
 <details>
@@ -47,6 +47,6 @@
 
  1. Інший спосіб: Завантажити ZIP - (<Code - Download ZIP) >> помістити папку `stable-diffusion-webui-localization-ua_UA-main` за адресою `stable-diffusion-webui\extensions\`.
 
- 2. 2. Після перезавантаження/запуску stable diffusion, перейти у вкладку `Extensions` і переконатися що на `stable-diffusion-webui-localization-ua_UA` стоїть галочка, після перейти в `Settings` >> `User interface` та в `Localization ( requires Reload UI)` вибрати `ua_UA`, після чого нагорі натиснути спочатку `Apply settings`, а після `Reload UI`.
+ 2. Після перезавантаження/запуску stable diffusion, перейти у вкладку `Extensions` і переконатися що на `stable-diffusion-webui-localization-ua_UA` стоїть галочка, після перейти в `Settings` >> `User interface` та в `Localization ( requires Reload UI)` вибрати `ua_UA`, після чого нагорі натиснути спочатку `Apply settings`, а після `Reload UI`.
 
 3. Готово.
